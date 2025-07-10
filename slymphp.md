@@ -36,18 +36,20 @@ The workflow and structure are **heavily inspired by Django**, while the underly
 
 ---
 
-## 📁 Project Structure (Inspired by Django)
+## 📁 Project Structure 
 
 ```
-/slymphp/
-├── core/             # Core framework logic (router, controller, view loader)
-├── app/
-│   ├── views/        # Templated HTML files
-│   ├── models/       # Data-handling logic
-│   └── controllers/  # Business logic
-├── public/           # Public-facing index.php
-├── config/           # App-specific configs
-└── README.md
+SlymPHP/
+├── core/
+│   ├── Config.php       # Framework configuration file
+│   ├── RouteConf.php    # Routing and view handling
+│   └── Models.php       # Database compatibility with SQLite
+├── manage/
+│   ├── routes.php       # Define application routes
+│   └── views.php        # Functions for route handling
+├── static/              # Static assets like CSS, JS, and images
+├── templates/           # Template files for view rendering
+└── index.php            # Entry point for the application
 ```
 
 ---
