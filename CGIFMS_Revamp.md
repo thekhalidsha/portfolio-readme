@@ -43,9 +43,9 @@ The project includes a fully responsive **landing page** and a **secure-looking 
 ## 👨‍💻 Author
 
 **Mohammed Khalid**  
-*Frontend Developer & UI Designer*  
+*Full Stack Developer (ReactJs/Django)*  
 📍 Kerala, India  
-📧 mohammed.khalid@example.com (replace with your actual)
+📧 thekhalidsha@gmail.com
 
 ---
 

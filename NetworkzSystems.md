@@ -56,9 +56,9 @@ The project was designed, developed, and deployed entirely by me, integrating dy
 ## 👨‍💻 Author
 
 **Mohammed Khalid**  
-*Project Lead & Full Stack Developer*  
+*Full Stack Developer (ReactJs/Django)*  
 📍 Kerala, India  
-📧 mohammed.khalid@example.com (replace with your actual)
+📧 thekhalidsha@gmail.com
 
 ---
 
