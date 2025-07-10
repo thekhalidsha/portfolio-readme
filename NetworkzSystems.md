@@ -64,6 +64,6 @@ The project was designed, developed, and deployed entirely by me, integrating dy
 
 ## 📝 License
 
-This project was developed under freelance terms. Source code is proprietary and confidential. All rights reserved by [https://networkzsystems.com](**Networkz Systems**).
+This project was developed under freelance terms. Source code is proprietary and confidential. All rights reserved by [**Networkz Systems**](https://networkzsystems.com).
 
 ---
