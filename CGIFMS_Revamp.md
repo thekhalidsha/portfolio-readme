@@ -4,6 +4,7 @@
 > A concept-based, modern single-page frontend prototype for a government finance portal.  
 > Technologies Used: `ReactJS 19`, `Tailwind CSS v4`, `Redux Toolkit`  
 > Project Type: Conceptual UI redesign inspired by Chhattisgarh Government’s Finance Systems  
+> Hosted on: `Vercel`  
 > 🔗 **Live Website**: [https://cgifms.vercel.app/](https://cgifms.vercel.app/)
 
 ---
