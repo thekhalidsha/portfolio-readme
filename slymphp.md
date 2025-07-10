@@ -4,6 +4,7 @@
 > A personal framework project by **Mohammed Khalid**  
 > Technologies Used: `PHP` (No Composer), Inspired by: `Django`, `Minimal MVC by Prahlad Yeri`
 > 🔗 **Framework Guide**: [https://thekhalidsha.gitbook.io/slym-php-docs](https://thekhalidsha.gitbook.io/slym-php-docs)
+
 ---
 
 ## 🚀 About SlymPHP
